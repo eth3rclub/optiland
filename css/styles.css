@@ -1,0 +1,85 @@
+body{background-color:#27272a;font:normal 1em/1.38 'Inter Regular';color:rgb(255, 255, 255);}
+
+button{display:block;float:left;border-radius:3px;font-family:'Manrope Bold';font-size:1em;text-align:center;}
+
+.element{float:left;width:48px;min-width:48px;height:48px;min-height:48px;background-repeat:no-repeat;background-position:center center;}
+
+.text{float:left;}
+
+.container-1{float:left;width:100%;height:574px;min-height:574px;background-color:rgb(77, 44, 52);}
+
+.container-10{width:100%;height:51px;min-height:51px;margin:2140px auto 0;}
+
+.container-2{position:relative;float:left;clear:both;z-index:11;width:39.193548387%;height:383px;min-height:383px;margin:25px 0 0 10%;border-radius:12px;background-color:rgb(46, 46, 48);}
+
+.container-3{position:relative;float:left;z-index:16;width:39.193548387%;height:383px;min-height:383px;margin:25px 0 0 1.56376%;border-radius:12px;background-color:rgb(46, 46, 48);}
+
+.container-4{position:relative;float:left;clear:both;z-index:20;width:39.193548387%;height:383px;min-height:383px;margin:45px 0 0 10%;border-radius:12px;background-color:rgb(46, 46, 48);}
+
+.container-5{position:relative;float:left;z-index:24;width:39.193548387%;height:383px;min-height:383px;margin:45px 0 0 1.58014%;border-radius:12px;background-color:rgb(46, 46, 48);}
+
+.container-6{position:relative;float:left;clear:both;z-index:32;width:39.193548387%;height:307px;min-height:307px;margin-left:10%;border-radius:12px;background-color:rgb(46, 46, 48);}
+
+.container-7{position:relative;float:left;z-index:36;width:39.193548387%;height:307px;min-height:307px;margin-left:1.56376%;border-radius:12px;background-color:rgb(46, 46, 48);}
+
+.container-8{position:relative;float:left;clear:both;z-index:40;width:39.193548387%;height:307px;min-height:307px;margin:20px 0 0 10%;border-radius:12px;background-color:rgb(46, 46, 48);}
+
+.container-9{position:relative;float:left;z-index:44;width:39.193548387%;height:307px;min-height:307px;margin:20px 0 0 1.5637600806%;border-radius:12px;background-color:rgb(46, 46, 48);}
+
+.element-1{position:relative;z-index:0;margin:6px 0 0 10%;background-image:url('../images/logo.png');background-size:48px 48px;background-color:rgba(255, 255, 255, 0);}
+
+.element-10{margin-left:10%;background-image:url('../images/logo.png');background-size:48px 48px;background-color:rgba(255, 255, 255, 0);}
+
+.element-2{margin:15px 0 0 3.08642%;border-radius:12px;background-image:url('../images/globe-showing-europe-africa(2).png');background-size:32px 32px;background-color:rgb(63, 63, 68);}
+
+.element-3{margin:15px 0 0 3.08642%;border-radius:12px;background-image:url('../images/linked-paperclips.png');background-size:32px 32px;background-color:rgb(63, 63, 68);}
+
+.element-4{margin:15px 0 0 3.08642%;border-radius:12px;background-image:url('../images/crystal-ball.png');background-size:32px 32px;background-color:rgb(63, 63, 68);}
+
+.element-5{margin:15px 0 0 3.08642%;border-radius:12px;background-image:url('../images/beach-with-umbrella.png');background-size:32px 32px;background-color:rgb(63, 63, 68);}
+
+.element-7{margin:15px 0 0 3.08642%;border-radius:12px;background-image:url('../images/electric-plug.png');background-size:32px 32px;background-color:rgb(63, 63, 68);}
+
+.element-8{margin:15px 0 0 3.08642%;border-radius:12px;background-image:url('../images/gem-stone.png');background-size:32px 32px;background-color:rgb(63, 63, 68);}
+
+.element-6,.element-9{margin:15px 0 0 3.08642%;border-radius:12px;background-image:url('../images/mobile-phone.png');background-size:32px 32px;background-color:rgb(63, 63, 68);}
+
+.text-1{clear:both;margin:38px 0 0 10%;font-family:'Manrope Bold';font-size:2em;color:rgb(255, 255, 255);}
+
+.text-11,.text-4,.text-6{clear:both;margin:15px 0 0 3.08642%;font-family:'Manrope Bold';font-size:2em;color:rgb(255, 255, 255);}
+
+.text-13{clear:both;margin:20px 0 0 31.97077%;font-family:'Manrope Bold';font-size:2em;color:rgb(255, 255, 255);}
+
+.text-2{clear:both;margin-left:10%;font-size:1em;color:rgb(255, 255, 255);}
+
+.text-14,.text-16,.text-18,.text-20,.text-9{clear:both;margin:15px 0 0 3.086419753%;font-family:'Manrope Bold';font-size:2em;color:rgb(255, 255, 255);}
+
+.text-10,.text-12,.text-15,.text-17,.text-19,.text-21,.text-5,.text-7{clear:both;margin-left:3.08642%;font-size:1em;color:rgb(226, 226, 226);}
+
+.text-22{margin-left:1.32813%;font-family:Inter;font-size:0.813em;font-weight:400;color:rgb(255, 255, 255);}
+
+.text-3{clear:both;margin:18px 0 0 10%;font-size:1em;color:rgb(255, 255, 255);}
+
+.text-8{clear:both;margin-left:3.08642%;font-family:Inter;font-size:0.75em;font-weight:400;color:rgb(216, 216, 216);}
+
+.container ._button-1{position:relative;z-index:1;width:74px;min-width:74px;height:24px;min-height:24px;margin:16px 0 0 1.32813%;background-color:rgba(222, 222, 222, 0);color:#ff7ea5;}
+
+.container ._button-2{position:relative;z-index:2;width:74px;min-width:74px;height:24px;min-height:24px;margin:16px 0 0 0.81653%;background-color:rgba(222, 222, 222, 0);color:rgb(255, 255, 255);-webkit-transition:0.15s;-moz-transition:0.15s;-o-transition:0.15s;-ms-transition:0.15s;transition:0.15s;}
+
+.container ._button-2:hover{color:#ff7ea5;}
+
+.container ._button-3{clear:both;width:13.6%;min-width:169px;height:29px;margin:10px 0 0 10%;background-color:rgb(255, 255, 255);color:rgb(0, 0, 0);}
+
+.container ._button-3:hover{background-color:rgb(225, 225, 225);}
+
+.text a{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:inherit;font-style:inherit;font-size:inherit;font-weight:inherit;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:rgb(180, 180, 180);opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.text em{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:inherit;font-style:inherit;font-size:inherit;font-weight:inherit;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;color:rgb(140, 140, 140);opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.text span{border-top-width:0;border-right-width:0;border-bottom-width:0;border-left-width:0;border-color:transparent;border-style:none;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background-color:transparent;font-family:inherit;font-style:inherit;font-size:inherit;font-weight:inherit;text-transform:inherit;text-decoration:inherit;letter-spacing:inherit;word-spacing:inherit;opacity:1;word-break:normal;word-wrap:normal;white-space:normal;}
+
+.text-1 span{color:#a855f7;}
+
+.text-2 span{color:#b65eea;}
+
+.text-22 span{color:rgb(180, 180, 180);}
