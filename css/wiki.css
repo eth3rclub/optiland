@@ -1,6 +1,6 @@
 body {
   background-color: #18181b;
-  font: 400 0.625em/1.38 Manrope;
+  font: normal 0.625em/1.38 'Manrope Bold';
   color: rgb(186, 186, 186);
 }
 
@@ -29,7 +29,6 @@ body {
   border-radius: 3px;
   background-color: rgba(222, 222, 222, 0);
   font-size: 1.6em;
-  font-weight: Bold;
   text-align: center;
 }
 
@@ -260,9 +259,7 @@ body {
   min-width: 86px;
   min-height: 49px;
   margin-left: 10%;
-  font-family: 'Manrope Bold';
   font-size: 3.6em;
-  font-weight: normal;
   color: rgb(255, 255, 255);
 }
 
@@ -271,9 +268,7 @@ body {
 .text-5 {
   clear: both;
   margin: 5px 0 0 7.62868%;
-  font-family: 'Manrope Bold';
   font-size: 2em;
-  font-weight: normal;
   color: rgb(226, 226, 226);
 }
 
@@ -282,9 +277,7 @@ body {
   min-width: 173px;
   min-height: 33px;
   margin: 4px 0 0 10%;
-  font-family: 'Manrope Bold';
   font-size: 2.4em;
-  font-weight: normal;
   color: rgb(255, 255, 255);
 }
 
@@ -293,15 +286,15 @@ body {
 .text-8 {
   clear: both;
   margin: 5px 0 0 3.90625%;
-  font-family: 'Manrope Bold';
   font-size: 2em;
-  font-weight: normal;
   color: rgb(226, 226, 226);
 }
 
 .text-9 {
   margin-left: 1.50601%;
+  font-family: Manrope;
   font-size: 1em;
+  font-weight: 400;
   text-align: center;
   color: rgb(186, 186, 186);
 }
@@ -379,11 +372,6 @@ body {
 }
 
 @media(max-width: 600px) {
-  .container ._button {
-    font-family: 'Manrope Bold';
-    font-weight: normal;
-  }
-
   .container .element-1 {
     margin-left: 10.07292%;
   }

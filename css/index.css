@@ -51,20 +51,8 @@ body {
 
 .container-10 {
   position: relative;
-  z-index: 44;
-  width: 39.1538461538%;
-  min-width: 509px;
-  height: 166px;
-  min-height: 166px;
-  margin: 25px 0 0 1.64303%;
-  border-radius: 12px;
-  background-color: rgb(46, 46, 48);
-}
-
-.container-11 {
-  position: relative;
   clear: both;
-  z-index: 48;
+  z-index: 44;
   width: 39.1538461538%;
   min-width: 509px;
   height: 166px;
@@ -74,9 +62,9 @@ body {
   background-color: rgb(46, 46, 48);
 }
 
-.container-12 {
+.container-11 {
   position: relative;
-  z-index: 52;
+  z-index: 48;
   width: 39.1538461538%;
   min-width: 509px;
   height: 166px;
@@ -86,7 +74,7 @@ body {
   background-color: rgb(46, 46, 48);
 }
 
-.container-13 {
+.container-12 {
   clear: both;
   width: 100%;
   min-width: 1300px;
@@ -115,31 +103,6 @@ body {
   min-width: 509px;
   height: 166px;
   min-height: 166px;
-  margin: 25px 0 0 1.64303%;
-  border-radius: 12px;
-  background-color: rgb(46, 46, 48);
-}
-
-.container-5 {
-  position: relative;
-  clear: both;
-  z-index: 7;
-  width: 38.3854166666%;
-  min-width: 509px;
-  height: 166px;
-  min-height: 166px;
-  margin: 25px 0 0 10%;
-  border-radius: 12px;
-  background-color: rgb(46, 46, 48);
-}
-
-.container-6 {
-  position: relative;
-  z-index: 15;
-  width: 38.39%;
-  min-width: 509px;
-  height: 166px;
-  min-height: 166px;
   max-height: 166px;
   margin: 25px 0 0 1.64303%;
   border-radius: 12px;
@@ -147,10 +110,22 @@ body {
   overflow: auto;
 }
 
-.container-7 {
+.container-5 {
+  clear: both;
+  width: 69.6153846153%;
+  min-width: 905px;
+  height: 166px;
+  min-height: 166px;
+  max-height: 166px;
+  margin: 23px 0 0 15.15385%;
+  border-radius: 12px;
+  background-color: rgb(46, 46, 48);
+}
+
+.container-6 {
   position: relative;
   clear: both;
-  z-index: 32;
+  z-index: 28;
   width: 39.1538461538%;
   min-width: 509px;
   height: 166px;
@@ -160,9 +135,9 @@ body {
   background-color: rgb(46, 46, 48);
 }
 
-.container-8 {
+.container-7 {
   position: relative;
-  z-index: 36;
+  z-index: 32;
   width: 39.1538461538%;
   min-width: 509px;
   height: 166px;
@@ -172,15 +147,27 @@ body {
   background-color: rgb(46, 46, 48);
 }
 
-.container-9 {
+.container-8 {
   position: relative;
   clear: both;
-  z-index: 40;
+  z-index: 36;
   width: 39.1538461538%;
   min-width: 509px;
   height: 166px;
   min-height: 166px;
   margin: 25px 0 0 10%;
+  border-radius: 12px;
+  background-color: rgb(46, 46, 48);
+}
+
+.container-9 {
+  position: relative;
+  z-index: 40;
+  width: 39.1538461538%;
+  min-width: 509px;
+  height: 166px;
+  min-height: 166px;
+  margin: 25px 0 0 1.64303%;
   border-radius: 12px;
   background-color: rgb(46, 46, 48);
 }
@@ -194,25 +181,18 @@ body {
 .element-10 {
   margin: 15px 0 0 3.06361%;
   border-radius: 12px;
-  background: url('../images/gem-stone.png') rgb(63, 63, 68);
+  background: url('../images/hourglass-not-done.png') rgb(63, 63, 68);
   background-size: 32px 32px;
 }
 
 .element-11 {
   margin: 15px 0 0 3.06361%;
   border-radius: 12px;
-  background: url('../images/hourglass-not-done.png') rgb(63, 63, 68);
-  background-size: 32px 32px;
-}
-
-.element-12 {
-  margin: 15px 0 0 3.06361%;
-  border-radius: 12px;
   background: url('../images/open-book_1f4d6.png') rgb(63, 63, 68);
   background-size: 32px 32px;
 }
 
-.element-13 {
+.element-12 {
   margin-left: 10%;
   background: url('../images/logo.png') rgba(222, 222, 222, 0);
   background-size: 48px 48px;
@@ -227,54 +207,54 @@ body {
 }
 
 .element-3 {
-  margin: 15px 0 0 3.05747%;
-  border-radius: 12px;
-  background: url('../images/linked-paperclips.png') rgb(63, 63, 68);
-  background-size: 32px 32px;
-}
-
-.element-4 {
-  margin: 15px 0 0 3.06361%;
-  border-radius: 12px;
-  background: url('../images/crystal-ball.png') rgb(63, 63, 68);
-  background-size: 32px 32px;
-}
-
-.element-5 {
   margin: 15px 0 0 3.0543999999%;
   border-radius: 12px;
   background: url('../images/beach-with-umbrella.png') rgb(63, 63, 68);
   background-size: 32px 32px;
 }
 
-.element-6 {
+.element-4 {
+  margin: 15px 0 0 3.06285%;
+  border-radius: 12px;
+  background: url('../images/crystal-ball.png') rgb(63, 63, 68);
+  background-size: 32px 32px;
+}
+
+.element-5 {
   position: relative;
   clear: both;
-  z-index: 56;
+  z-index: 52;
   width: 1%;
   height: 28px;
-  margin: 50px 0 0 10%;
+  margin: 52px 0 0 10%;
   background-color: rgba(222, 222, 222, 0);
 }
 
-.element-7 {
+.element-6 {
   margin: 15px 0 0 3.06361%;
   border-radius: 12px;
   background: url('../images/calendar_1f4c5.png') rgb(63, 63, 68);
   background-size: 32px 32px;
 }
 
-.element-8 {
+.element-7 {
   margin: 15px 0 0 3.06361%;
   border-radius: 12px;
   background: url('../images/electric-plug.png') rgb(63, 63, 68);
   background-size: 32px 32px;
 }
 
-.element-9 {
+.element-8 {
   margin: 15px 0 0 3.06361%;
   border-radius: 12px;
   background: url('../images/mobile-phone.png') rgb(63, 63, 68);
+  background-size: 32px 32px;
+}
+
+.element-9 {
+  margin: 15px 0 0 3.06361%;
+  border-radius: 12px;
+  background: url('../images/gem-stone.png') rgb(63, 63, 68);
   background-size: 32px 32px;
 }
 
@@ -287,37 +267,34 @@ body {
 }
 
 .text-10 {
-  clear: both;
-  margin: 15px 0 0 3.0543999999%;
-  font-family: 'Manrope Bold';
-  font-size: 2em;
-  color: rgb(255, 255, 255);
-}
-
-.text-11 {
-  clear: both;
-  margin-left: 3.0543999999%;
-  font-size: 1em;
-  color: rgb(226, 226, 226);
-}
-
-.text-12 {
   position: relative;
-  z-index: 28;
+  z-index: 24;
   min-width: 440px;
   min-height: 44px;
-  margin: 45px 0 0 22.44351%;
+  margin: 47px 0 0 22.44351%;
   font-family: 'Manrope Bold';
   font-size: 2em;
   color: rgb(255, 255, 255);
 }
 
-.text-16 {
+.text-14 {
   clear: both;
   width: 86.2475442043%;
   margin-left: 3.06361%;
   font-size: 0.938em;
   color: rgb(226, 226, 226);
+}
+
+.text-11,
+.text-13,
+.text-15,
+.text-17,
+.text-19 {
+  clear: both;
+  margin: 15px 0 0 3.06361%;
+  font-family: 'Manrope Bold';
+  font-size: 2em;
+  color: rgb(255, 255, 255);
 }
 
 .text-2 {
@@ -327,20 +304,7 @@ body {
   color: rgb(255, 255, 255);
 }
 
-.text-13,
-.text-15,
-.text-17,
-.text-19,
-.text-21,
-.text-8 {
-  clear: both;
-  margin: 15px 0 0 3.06361%;
-  font-family: 'Manrope Bold';
-  font-size: 2em;
-  color: rgb(255, 255, 255);
-}
-
-.text-23 {
+.text-21 {
   clear: both;
   margin: 15px 0 0 3.06361%;
   font-family: 'Manrope Bold';
@@ -349,19 +313,18 @@ body {
   color: rgb(255, 255, 255);
 }
 
-.text-14,
+.text-12,
+.text-16,
 .text-18,
 .text-20,
-.text-22,
-.text-24,
-.text-9 {
+.text-22 {
   clear: both;
   margin-left: 3.06361%;
   font-size: 1em;
   color: rgb(226, 226, 226);
 }
 
-.text-25 {
+.text-23 {
   margin-left: 1.50601%;
   font-family: Manrope;
   font-size: 0.75em;
@@ -376,8 +339,7 @@ body {
   color: rgb(255, 255, 255);
 }
 
-.text-4,
-.text-6 {
+.text-4 {
   clear: both;
   margin: 15px 0 0 3.05747%;
   font-family: 'Manrope Bold';
@@ -385,10 +347,39 @@ body {
   color: rgb(255, 255, 255);
 }
 
-.text-5,
-.text-7 {
+.text-5 {
   clear: both;
   margin-left: 3.05747%;
+  font-size: 1em;
+  color: rgb(226, 226, 226);
+}
+
+.text-6 {
+  clear: both;
+  margin: 15px 0 0 3.0543999999%;
+  font-family: 'Manrope Bold';
+  font-size: 2em;
+  color: rgb(255, 255, 255);
+}
+
+.text-7 {
+  clear: both;
+  margin-left: 3.0543999999%;
+  font-size: 1em;
+  color: rgb(226, 226, 226);
+}
+
+.text-8 {
+  clear: both;
+  margin: 15px 0 0 3.06285%;
+  font-family: 'Manrope Bold';
+  font-size: 2em;
+  color: rgb(255, 255, 255);
+}
+
+.text-9 {
+  clear: both;
+  margin-left: 3.06285%;
   font-size: 1em;
   color: rgb(226, 226, 226);
 }
@@ -554,16 +545,10 @@ body {
   color: #b65eea;
 }
 
-.text-24 span {
+.text-22 span {
   background-color: rgba(229, 112, 148, 0);
   text-decoration: underline;
   color: rgb(229, 112, 148);
-}
-
-.text-7 span {
-  background-color: transparent;
-  text-decoration: underline;
-  color: rgb(255, 89, 89);
 }
 
 @media(max-width: 600px) {
@@ -571,11 +556,11 @@ body {
     margin-left: 10.07292%;
   }
 
-  .container .element-13 {
+  .container .element-12 {
     margin-left: 45%;
   }
 
-  .container .text-25 {
+  .container .text-23 {
     clear: both;
     margin-left: 3.16667%;
     font-size: 0.563em;
@@ -588,25 +573,18 @@ body {
 
   .container-10 {
     position: relative;
-    clear: both;
     z-index: 44;
     margin-left: 7.83073%;
   }
 
   .container-11 {
     position: relative;
+    clear: both;
     z-index: 48;
     margin-left: 7.83073%;
   }
 
   .container-12 {
-    position: relative;
-    clear: both;
-    z-index: 52;
-    margin-left: 7.83073%;
-  }
-
-  .container-13 {
     min-width: 600px;
     margin-top: 136px;
   }
@@ -621,50 +599,52 @@ body {
     position: relative;
     clear: both;
     z-index: 11;
+    margin-top: 213px;
     margin-left: 7.83073%;
   }
 
   .container-5 {
-    position: relative;
-    z-index: 7;
+    margin-top: -357px;
     margin-left: 7.83073%;
   }
 
   .container-6 {
     position: relative;
-    clear: both;
-    z-index: 15;
+    z-index: 28;
     margin-left: 7.83073%;
   }
 
   .container-7 {
     position: relative;
+    clear: both;
     z-index: 32;
     margin-left: 7.83073%;
   }
 
   .container-8 {
     position: relative;
-    clear: both;
     z-index: 36;
     margin-left: 7.83073%;
   }
 
   .container-9 {
     position: relative;
+    clear: both;
     z-index: 40;
     margin-left: 7.83073%;
   }
 
-  .element-6 {
+  .element-5 {
     position: relative;
-    z-index: 56;
+    clear: none;
+    z-index: 52;
+    margin-top: 244px;
   }
 
-  .text-12 {
+  .text-10 {
     position: relative;
-    z-index: 28;
-    margin-top: 122px;
+    z-index: 24;
+    margin-top: 316px;
     margin-left: 2.14063%;
   }
 
@@ -698,7 +678,7 @@ body {
 
   .container .element-1 {
     position: relative;
-    z-index: 20;
+    z-index: 16;
     margin-top: 9px;
     margin-left: 43.1992199999%;
   }
@@ -707,76 +687,73 @@ body {
     margin-top: 0;
   }
 
-  .container .text-10 {
-    margin-left: 3.05153%;
+  .container .text-11 {
+    margin-left: 3.0513%;
     font-size: 1em;
   }
 
-  .container .element-5,
-  .container .text-11 {
-    margin-left: 3.05153%;
+  .container .element-6,
+  .container .text-12 {
+    margin-left: 3.0513%;
   }
 
   .container .text-13 {
-    margin-left: 3.0513%;
-    font-size: 1em;
-  }
-
-  .container .element-7,
-  .container .text-14 {
-    margin-left: 3.0513%;
-  }
-
-  .container .text-15 {
     margin-top: 3px;
     margin-left: 3.05643%;
     font-size: 1em;
   }
 
-  .container .text-19,
-  .container .text-21 {
+  .container .text-17,
+  .container .text-19 {
     margin-left: 3.04614%;
     font-size: 1em;
   }
 
   .container .element-10,
-  .container .element-11,
-  .container .text-20,
-  .container .text-22 {
+  .container .element-9,
+  .container .text-18,
+  .container .text-20 {
     margin-left: 3.04614%;
   }
 
-  .container .text-17,
-  .container .text-23 {
+  .container .text-15,
+  .container .text-21 {
     margin-left: 3.05643%;
     font-size: 1em;
   }
 
-  .container .element-12,
+  .container .element-11,
+  .container .element-7,
   .container .element-8,
-  .container .element-9,
+  .container .text-14,
   .container .text-16,
-  .container .text-18,
-  .container .text-24 {
+  .container .text-22 {
     margin-left: 3.05643%;
   }
 
-  .container .text-25 {
+  .container .text-23 {
     margin-left: 3.16016%;
   }
 
+  .container .text-6 {
+    margin-left: 3.05153%;
+    font-size: 1em;
+  }
+
+  .container .element-3,
+  .container .text-7 {
+    margin-left: 3.05153%;
+  }
+
   .container .text-4,
-  .container .text-6,
   .container .text-8 {
     margin-left: 3.0517599999%;
     font-size: 1em;
   }
 
   .container .element-2,
-  .container .element-3,
   .container .element-4,
   .container .text-5,
-  .container .text-7,
   .container .text-9 {
     margin-left: 3.0517599999%;
   }
@@ -797,20 +774,12 @@ body {
   .container-11 {
     position: relative;
     z-index: 48;
-    width: 79.25%;
-    min-width: 0;
-    margin-left: 10%;
-  }
-
-  .container-12 {
-    position: relative;
-    z-index: 52;
     width: 79.75%;
     min-width: 0;
     margin-left: 10%;
   }
 
-  .container-13 {
+  .container-12 {
     min-width: 0;
   }
 
@@ -826,14 +795,13 @@ body {
   .container-4 {
     position: relative;
     z-index: 11;
-    width: 80%;
+    width: 79.75%;
     min-width: 0;
+    margin-top: 207px;
     margin-left: 10%;
   }
 
   .container-5 {
-    position: relative;
-    z-index: 7;
     width: 80%;
     min-width: 0;
     margin-left: 10%;
@@ -841,18 +809,18 @@ body {
 
   .container-6 {
     position: relative;
-    z-index: 15;
-    width: 79.75%;
+    z-index: 28;
+    width: 79.5%;
     min-width: 0;
+    margin-top: 122px;
     margin-left: 10%;
   }
 
   .container-7 {
     position: relative;
     z-index: 32;
-    width: 79.5%;
+    width: 79.75%;
     min-width: 0;
-    margin-top: 122px;
     margin-left: 10%;
   }
 
@@ -867,21 +835,21 @@ body {
   .container-9 {
     position: relative;
     z-index: 40;
-    width: 79.75%;
+    width: 79.25%;
     min-width: 0;
     margin-left: 10%;
   }
 
-  .element-6 {
+  .element-5 {
     position: relative;
-    z-index: 56;
-    margin-top: 3px;
+    z-index: 52;
+    margin-top: 203px;
   }
 
-  .text-12 {
+  .text-10 {
     position: relative;
     clear: both;
-    z-index: 28;
+    z-index: 24;
     min-width: 332px;
     min-height: 33px;
     margin-top: 72px;
@@ -892,7 +860,7 @@ body {
   .container ._button-1 {
     position: relative;
     clear: both;
-    z-index: 21;
+    z-index: 17;
     margin-top: -57px;
     margin-left: 40.84766%;
     color: rgba(255, 126, 165, 0);
@@ -907,14 +875,14 @@ body {
 
   .container ._button-3 {
     position: relative;
-    z-index: 23;
+    z-index: 19;
     margin-top: 0;
     margin-left: 1.82813%;
   }
 
   .container ._button-4 {
     position: relative;
-    z-index: 24;
+    z-index: 20;
     margin-top: 0;
     margin-left: 1.84766%;
   }
